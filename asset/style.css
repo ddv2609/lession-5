@@ -1,0 +1,3 @@
+.container ul li::marker {
+    color: red;
+}
